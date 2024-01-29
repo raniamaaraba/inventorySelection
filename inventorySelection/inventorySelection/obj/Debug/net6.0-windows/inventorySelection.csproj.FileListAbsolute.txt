@@ -1,0 +1,17 @@
+F:\programs\inventorySelection\inventorySelection\obj\Debug\net6.0-windows\inventorySelection.csproj.AssemblyReference.cache
+F:\programs\inventorySelection\inventorySelection\obj\Debug\net6.0-windows\inventorySelection.Form1.resources
+F:\programs\inventorySelection\inventorySelection\obj\Debug\net6.0-windows\inventorySelection.csproj.GenerateResource.cache
+F:\programs\inventorySelection\inventorySelection\obj\Debug\net6.0-windows\inventorySelection.GeneratedMSBuildEditorConfig.editorconfig
+F:\programs\inventorySelection\inventorySelection\obj\Debug\net6.0-windows\inventorySelection.AssemblyInfoInputs.cache
+F:\programs\inventorySelection\inventorySelection\obj\Debug\net6.0-windows\inventorySelection.AssemblyInfo.cs
+F:\programs\inventorySelection\inventorySelection\obj\Debug\net6.0-windows\inventorySelection.csproj.CoreCompileInputs.cache
+F:\programs\inventorySelection\inventorySelection\bin\Debug\net6.0-windows\inventorySelection.exe
+F:\programs\inventorySelection\inventorySelection\bin\Debug\net6.0-windows\inventorySelection.deps.json
+F:\programs\inventorySelection\inventorySelection\bin\Debug\net6.0-windows\inventorySelection.runtimeconfig.json
+F:\programs\inventorySelection\inventorySelection\bin\Debug\net6.0-windows\inventorySelection.dll
+F:\programs\inventorySelection\inventorySelection\bin\Debug\net6.0-windows\inventorySelection.pdb
+F:\programs\inventorySelection\inventorySelection\obj\Debug\net6.0-windows\inventorySelection.dll
+F:\programs\inventorySelection\inventorySelection\obj\Debug\net6.0-windows\refint\inventorySelection.dll
+F:\programs\inventorySelection\inventorySelection\obj\Debug\net6.0-windows\inventorySelection.pdb
+F:\programs\inventorySelection\inventorySelection\obj\Debug\net6.0-windows\inventorySelection.genruntimeconfig.cache
+F:\programs\inventorySelection\inventorySelection\obj\Debug\net6.0-windows\ref\inventorySelection.dll
